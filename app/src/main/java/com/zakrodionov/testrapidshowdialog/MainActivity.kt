@@ -19,5 +19,7 @@ class MainActivity : AppCompatActivity() {
                 CommonDialog().showNow(supportFragmentManager, TAG)
             }
         }
+
+        //time
     }
 }
